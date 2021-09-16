@@ -3,6 +3,9 @@ a list of papers, code, dataset and other resources focus on deep learning SLAM 
 
 ## Camera
 * DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras [[code]](https://github.com/princeton-vl/DROID-SLAM)[[paper]](https://arxiv.org/pdf/2108.10869)
+* Deepvo: Towards end-to-end visual odometry with deep recurrent convolutional neural networks [[no code]]()[[paper]](https://arxiv.org/pdf/1709.08429) `ICRA 2017`
+* Unsupervised learning of monocular depth estimation and visual odometry with deep feature reconstruction [[no code]]()[[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhan_Unsupervised_Learning_of_CVPR_2018_paper.pdf) `CVPR 2018`
+* Undeepvo: Monocular visual odometry through unsupervised deep learning [[code]](http://senwang.gitlab.io/UnDeepVO)[[paper]](https://arxiv.org/pdf/1709.06841) `ICRA 2018`
 * Deeptam: Deep tracking and mapping [[no code]]()[[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Huizhong_Zhou_DeepTAM_Deep_Tracking_ECCV_2018_paper.pdf) `ECCV 2018`
 * Beyond tracking: Selecting memory and refining poses for deep visual odometry [[no code]]()[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Beyond_Tracking_Selecting_Memory_and_Refining_Poses_for_Deep_Visual_CVPR_2019_paper.pdf) `CVPR 2019`
 * Sequential adversarial learning for self-supervised deep visual odometry [[no code]]()[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Sequential_Adversarial_Learning_for_Self-Supervised_Deep_Visual_Odometry_ICCV_2019_paper.pdf) `ICCV 2019`

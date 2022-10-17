@@ -24,6 +24,7 @@ a list of papers, code, dataset and other resources focus on deep learning SLAM 
 ## LiDAR
 * Lo-net: Deep real-time lidar odometry [[no code]]()[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_LO-Net_Deep_Real-Time_Lidar_Odometry_CVPR_2019_paper.pdf) `CVPR 2019`
 * Self-supervised Visual-LiDAR Odometry with Flip Consistency [[no code]]()[[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Li_Self-Supervised_Visual-LiDAR_Odometry_With_Flip_Consistency_WACV_2021_paper.pdf) `WACV 2021`
+* LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition [code](https://github.com/csiro-robotics/LoGG3D-Net) `ICRA 2022`
 
 
 ## Dataset

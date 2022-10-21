@@ -28,5 +28,6 @@ a list of papers, code, dataset and other resources focus on deep learning SLAM 
 
 
 ## Dataset
+* [lamar-benchmark](https://github.com/microsoft/lamar-benchmark)  `ECCV 2022`
 * [TartanAir: A Dataset to Push the Limits of Visual SLAM](https://github.com/castacks/tartanvo) `IROS 2020`
 * KITTI Odometry
